@@ -9,10 +9,10 @@ I am a 3rd-year BCA student deeply interested in full stack web development. I e
 
 
 ### 📊 GitHub Stats:
-<p style="display: flex; justify-content: center; flex-wrap: wrap;" align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishipatel9&show_icons=true&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishipatel9&theme=tokyonight" />
-</p>
+
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishipatel9&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=rishipatel9&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)" />
+
 
 ### 🧑‍💻 Currently working on
 1. [Codeium](https://github.com/rishipatel9/Codeium)
