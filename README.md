@@ -18,6 +18,4 @@ I am a 3rd-year BCA student deeply interested in full stack web development. I e
 </div>
 
 
-### 🧑‍💻 Currently working on
-1. [Codeium](https://github.com/rishipatel9/Codeium)
 
