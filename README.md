@@ -1,4 +1,6 @@
+<!--
 [![](https://visitcount.itsvg.in/api?id=rishipatel9&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ## 👋🏻Hello there! 
 
 I am a 3rd-year BCA student deeply interested in full stack web development. I enjoy building web applications that are both functional and visually appealing. I'm also exploring the world of Web3 and decentralized technologies, eager to contribute to the future of the internet. My goal is to blend traditional web development skills with the emerging Web3 landscape.
@@ -16,6 +18,4 @@ I am a 3rd-year BCA student deeply interested in full stack web development. I e
   <img src="https://streak-stats.demolab.com?user=rishipatel9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishipatel9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
+-->
